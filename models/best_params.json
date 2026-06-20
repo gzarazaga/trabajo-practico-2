@@ -1,0 +1,11 @@
+{
+  "max_depth": 6,
+  "n_estimators": 100,
+  "learning_rate": 0.1,
+  "subsample": 0.8,
+  "colsample_bytree": 0.8,
+  "random_state": 42,
+  "f1_test": 0.6947,
+  "f1_train": 0.7511,
+  "gap": 0.0564
+}
